@@ -1,0 +1,19 @@
+{
+  "name": "reactioncommerce-api-plugin-health-checks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altenorjr/reactioncommerce-api-plugin-health-checks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/altenorjr/reactioncommerce-api-plugin-health-checks/issues"
+  },
+  "homepage": "https://github.com/altenorjr/reactioncommerce-api-plugin-health-checks#readme"
+}
