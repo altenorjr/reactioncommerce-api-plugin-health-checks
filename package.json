@@ -1,6 +1,7 @@
 {
   "name": "reactioncommerce-api-plugin-health-checks",
-  "version": "1.0.0",
+  "type": "module",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
